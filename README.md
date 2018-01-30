@@ -1,4 +1,4 @@
-# Freelancer site
+# SaltUX Portfolio site
 
 
 ## Status
@@ -27,4 +27,4 @@ Clone the repo
 
 ## About
 
-Site for Brian and Alex
+SaltUX Main site and portfolio.
